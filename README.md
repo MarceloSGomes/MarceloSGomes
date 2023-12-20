@@ -1,11 +1,5 @@
 <h1 align="center">Oi👋, Eu sou Marcelo Gomes</h1>
-<h3 align="center">Apaixonado por ciência e análise de dados!</h3>
 
--  **GRADUADO EM CIÊNCIA DA COMPUTAÇÃO**
-
-- Me pergunte sobre **Power BI e Análise de Dados**
-
-- 📫 Você me encontra atrás do e-mail **marcelo130894@hotmail.com**
 
 - 📄 Conheça meu perfil no Linkedin [https://www.linkedin.com/in/marcelo-da-silva-gomes-405171187/](https://www.linkedin.com/in/marcelo-da-silva-gomes-405171187/)
 
